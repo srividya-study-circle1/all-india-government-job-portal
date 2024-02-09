@@ -73,16 +73,7 @@ a:hover{
     transition: 0.5s linear;
     text-decoration-color: rgb(212, 59, 12);
 }
-.menu-toggle{
-    display: none;
-}
-.menu-toggle .bar{
-    width: 15px;
-    height:2px;
-    margin:3px auto;
-    transition: all 0.1 ease-in-out;
-cursor: pointer;
-}
+ 
  
 .kj{
     width: 100%;
@@ -126,34 +117,11 @@ cursor: pointer;
     color: var(--primaryColor);
 }
 
-.search-wapper{
-    width:60%;
-    height: 100%;
-    margin-top:auto;
-min-width: 300px;
-height: 3.5rem;
-position:relative;}
  
  
-.search-card{
-    align-content: center;
-    display: flex;
-    justify-content: space-between;
-    height:75%;
-    width:100%;
-}
-.search-input{
-    height:100%;
-    width: 100%;
-    border-color:blue ;
-    padding:0.5rem;
-}
-
-.search-button{
-    width: 200px;
-    background: var(--primaryColor);
-    color: var(--whiteColor);
-}
+ 
+ 
+ 
 .TopCategory.jsx-87fe805dc3787615 ul.jsx-87fe805dc3787615 {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
